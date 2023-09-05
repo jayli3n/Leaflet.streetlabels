@@ -1,5 +1,5 @@
 {
-  "name": "leaflet-streetlabels",
+  "name": "@jayli3n/leaflet-streetlabels",
   "version": "1.0.5",
   "description": "Display the street labels following polylines for Leaflet",
   "main": "dist/Leaflet.streetlabels.js",
